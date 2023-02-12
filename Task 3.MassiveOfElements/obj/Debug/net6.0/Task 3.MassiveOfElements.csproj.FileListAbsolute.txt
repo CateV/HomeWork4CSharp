@@ -1,0 +1,15 @@
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task 3.MassiveOfElements\bin\Debug\net6.0\Task 3.MassiveOfElements.exe
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task 3.MassiveOfElements\bin\Debug\net6.0\Task 3.MassiveOfElements.deps.json
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task 3.MassiveOfElements\bin\Debug\net6.0\Task 3.MassiveOfElements.runtimeconfig.json
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task 3.MassiveOfElements\bin\Debug\net6.0\Task 3.MassiveOfElements.dll
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task 3.MassiveOfElements\bin\Debug\net6.0\Task 3.MassiveOfElements.pdb
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task 3.MassiveOfElements\obj\Debug\net6.0\Task 3.MassiveOfElements.csproj.AssemblyReference.cache
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task 3.MassiveOfElements\obj\Debug\net6.0\Task 3.MassiveOfElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task 3.MassiveOfElements\obj\Debug\net6.0\Task 3.MassiveOfElements.AssemblyInfoInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task 3.MassiveOfElements\obj\Debug\net6.0\Task 3.MassiveOfElements.AssemblyInfo.cs
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task 3.MassiveOfElements\obj\Debug\net6.0\Task 3.MassiveOfElements.csproj.CoreCompileInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task 3.MassiveOfElements\obj\Debug\net6.0\Task 3.MassiveOfElements.dll
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task 3.MassiveOfElements\obj\Debug\net6.0\refint\Task 3.MassiveOfElements.dll
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task 3.MassiveOfElements\obj\Debug\net6.0\Task 3.MassiveOfElements.pdb
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task 3.MassiveOfElements\obj\Debug\net6.0\Task 3.MassiveOfElements.genruntimeconfig.cache
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task 3.MassiveOfElements\obj\Debug\net6.0\ref\Task 3.MassiveOfElements.dll
