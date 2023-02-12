@@ -1,0 +1,15 @@
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task2.SumOfDigits\obj\Debug\net6.0\Task2.SumOfDigits.csproj.AssemblyReference.cache
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task2.SumOfDigits\obj\Debug\net6.0\Task2.SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task2.SumOfDigits\obj\Debug\net6.0\Task2.SumOfDigits.AssemblyInfoInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task2.SumOfDigits\obj\Debug\net6.0\Task2.SumOfDigits.AssemblyInfo.cs
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task2.SumOfDigits\obj\Debug\net6.0\Task2.SumOfDigits.csproj.CoreCompileInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task2.SumOfDigits\bin\Debug\net6.0\Task2.SumOfDigits.exe
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task2.SumOfDigits\bin\Debug\net6.0\Task2.SumOfDigits.deps.json
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task2.SumOfDigits\bin\Debug\net6.0\Task2.SumOfDigits.runtimeconfig.json
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task2.SumOfDigits\bin\Debug\net6.0\Task2.SumOfDigits.dll
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task2.SumOfDigits\bin\Debug\net6.0\Task2.SumOfDigits.pdb
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task2.SumOfDigits\obj\Debug\net6.0\Task2.SumOfDigits.dll
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task2.SumOfDigits\obj\Debug\net6.0\refint\Task2.SumOfDigits.dll
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task2.SumOfDigits\obj\Debug\net6.0\Task2.SumOfDigits.pdb
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task2.SumOfDigits\obj\Debug\net6.0\Task2.SumOfDigits.genruntimeconfig.cache
+D:\GeekBrains\4. Знакомство с языками программирования\4.C#\HomeWork4CSharp\Task2.SumOfDigits\obj\Debug\net6.0\ref\Task2.SumOfDigits.dll
